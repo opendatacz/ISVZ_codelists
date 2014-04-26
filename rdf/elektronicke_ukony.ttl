@@ -1,0 +1,691 @@
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010008>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010008" ;
+      skos:prefLabel  "Určení, vztahuje-li se na nabídku ustanovení §101 odst. 5 ZVZ"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010113>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010113" ;
+      skos:prefLabel  "Příjem nabídkových hodnot v zadávacím kole"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010087>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010087" ;
+      skos:prefLabel  "Příjem oznámení o výběru nejvhodnější nabídky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010052>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010052" ;
+      skos:prefLabel  "Odeslání oznámení o vyloučení uchazeče"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010097>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010097" ;
+      skos:prefLabel  "Příjem vyrozumění o akceptaci nabídky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010013>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010013" ;
+      skos:prefLabel  "Zahájení aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010027>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010027" ;
+      skos:prefLabel  "Zrušení ZŘ"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010077>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010077" ;
+      skos:prefLabel  "Podání nabídky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010032>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010032" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 3"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010033>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010033" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 4"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010067>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010067" ;
+      skos:prefLabel  "Odeslání oznámení o zrušení zadávacího řízení dodavatelům"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010107>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010107" ;
+      skos:prefLabel  "Uveřejnění oznámení o vyloučení uchazeče v e-tržišti"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010007>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010007" ;
+      skos:prefLabel  "Posouzení nabídek"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010014>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010014" ;
+      skos:prefLabel  "Odšifrování aukčních hodnot"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010090>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010090" ;
+      skos:prefLabel  "Odeslání oznámení o vzdání se práva na podání námitek"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010088>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010088" ;
+      skos:prefLabel  "Odeslání žádosti o nahlédnutí do zprávy o posouzení a hodnocení nabídek"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010051>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010051" ;
+      skos:prefLabel  "Odeslání vyrozumění o podání nabídky po uplynutí lhůty"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010112>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010112" ;
+      skos:prefLabel  "Podání nabídkových hodnot v zadávacím kole"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010028>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010028" ;
+      skos:prefLabel  "Odeslání oznámení o zrušení ZŘ k uveřejnění ve Věstníku VZ"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010080>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010080" ;
+      skos:prefLabel  "Příjem vyrozumění o podání nabídky po uplynutí lhůty"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010078>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010078" ;
+      skos:prefLabel  "Zpětvzetí nabídky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010031>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010031" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 2"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010060>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010060" ;
+      skos:prefLabel  "Odeslání oznámení o výběru nejvhodnější nabídky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010048>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010048" ;
+      skos:prefLabel  "Poskytování dodatečných informací"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010034>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010034" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 5"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010070>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010070" ;
+      skos:prefLabel  "Evidence uzavření smluvního vztahu"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010106>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010106" ;
+      skos:prefLabel  "Uveřejnění písemné zprávy zadavatele v e-tržišti"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010006>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010006" ;
+      skos:prefLabel  "Posouzení kvalifikace"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010101>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010101" ;
+      skos:prefLabel  "Příjem potvrzení o uveřejnění"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010040>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010040" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 11"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010091>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010091" ;
+      skos:prefLabel  "Podání námitek proti úkonům zadavatele"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010085>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010085" ;
+      skos:prefLabel  "Příjem oznámení o přerušení aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010015>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010015" ;
+      skos:prefLabel  "Posunutí začátku aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010025>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010025" ;
+      skos:prefLabel  "Odmítnutí námitky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010099>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010099" ;
+      skos:prefLabel  "Odeslání oznámení o zadání zakázky k uveřejnění ve Věstníku VZ"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010111>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010111" ;
+      skos:prefLabel  "Nahlédnutí do zprávy o posouzení a hodnocení nabídek v e-tržišti"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010050>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010050" ;
+      skos:prefLabel  "Příjem aukčních hodnot"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010035>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010035" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 6"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010119>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010119" ;
+      skos:prefLabel  "Odeslání výzvy k účasti v e-aukci v rámci nového posouzení a hodnocení"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010030>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010030" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 1"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010079>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010079" ;
+      skos:prefLabel  "Podání aukčních hodnot"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010020>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010020" ;
+      skos:prefLabel  "Automatické vyhodnocení nabídek"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010109>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010109" ;
+      skos:prefLabel  "Odemčení VZ"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010065>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010065" ;
+      skos:prefLabel  "Odeslání oznámení o rozhodnutí o námitkách"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010045>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010045" ;
+      skos:prefLabel  "Odeslání výzvy uchazečům k účasti v e-aukci"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010071>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010071" ;
+      skos:prefLabel  "Příjem výzvy k podání nabídky v zadávacím řízení"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010100>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010100" ;
+      skos:prefLabel  "Příjem potvrzení o odeslání vyhlášení k uveřejnění"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010072>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010072" ;
+      skos:prefLabel  "Příjem objednávky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010005>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010005" ;
+      skos:prefLabel  "Otevírání nabídek/aukčních hodnot"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010092>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010092" ;
+      skos:prefLabel  "Příjem oznámení o podání námitky po lhůtě"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010086>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010086" ;
+      skos:prefLabel  "Příjem oznámení o zrušení aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010016>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010016" ;
+      skos:prefLabel  "Přerušení aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010026>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010026" ;
+      skos:prefLabel  "Uveřejnění oznámení o rozhodnutí o námitkách v e-tržišti"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010110>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010110" ;
+      skos:prefLabel  "Zpřístupnění zprávy o posouzení a hodnocení nabídek v e-tržišti"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010118>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010118" ;
+      skos:prefLabel  "Nahlédnutí do výzvy k podání nabídek dálkovým přístupem"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010066>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010066" ;
+      skos:prefLabel  "Odeslání oznámení o uzavření smlouvy"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010108>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010108" ;
+      skos:prefLabel  "Uveřejnění oznámení o výběru nejvhodnější nabídky v e-tržišti"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010120>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010120" ;
+      skos:prefLabel  "Příjem výzvy k účasti v e-aukci v rámci nového posouzení a hodnocení"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010036>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010036" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 7"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010056>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010056" ;
+      skos:prefLabel  "Odeslání oznámení o přerušení aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010023>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010023" ;
+      skos:prefLabel  "Rozhodnutí o přijatelnosti nabídky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010093>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010093" ;
+      skos:prefLabel  "Příjem oznámení o odmítnutí námitky dodavateli"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010042>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010042" ;
+      skos:prefLabel  "Uzamčení VZ"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010063>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010063" ;
+      skos:prefLabel  "Odeslání oznámení o podání námitky po lhůtě"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010037>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010037" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 8"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010103>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010103" ;
+      skos:prefLabel  "Příjem žádosti o dodatečné informace"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010083>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010083" ;
+      skos:prefLabel  "Příjem oznámení o posunutí začátku aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010017>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010017" ;
+      skos:prefLabel  "Zrušení aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010117>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010117" ;
+      skos:prefLabel  "Nahlédnutí do protokolu o výběru dodavatele v e-tržišti"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010004>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010004" ;
+      skos:prefLabel  "Odšifrování nabídek"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010073>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010073" ;
+      skos:prefLabel  "Příjem výzvy uchazečům k účasti v eAukci"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010069>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010069" ;
+      skos:prefLabel  "Odeslání vyrozumění dodavateli o akceptaci nabídky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010010>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010010" ;
+      skos:prefLabel  "Vyloučení uchazeče"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010055>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010055" ;
+      skos:prefLabel  "Odeslání oznámení o manuálním prodloužení aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010024>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010024" ;
+      skos:prefLabel  "Rozhodnutí, bude-li provedeno nové posouzení a hodnocení"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010059>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010059" ;
+      skos:prefLabel  "Příjem žádosti o nahlédnutí do protokolu o výběru dodavatele"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010041>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010041" ;
+      skos:prefLabel  "Spuštění nestandardního stavu"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010102>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010102" ;
+      skos:prefLabel  "Vyloučení uchazeče z e-aukce"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010064>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010064" ;
+      skos:prefLabel  "Odeslání oznámení o odmítnutí námitky dodavateli"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010038>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010038" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 9"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010094>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010094" ;
+      skos:prefLabel  "Příjem oznámení o rozhodnutí o námitkách"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010084>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010084" ;
+      skos:prefLabel  "Příjem oznámení o manuálním prodloužení aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010003>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010003" ;
+      skos:prefLabel  "Jednání komisí"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010116>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010116" ;
+      skos:prefLabel  "Zpřístupnění protokolu o výběru dodavatele v e-tržišti"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010018>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010018" ;
+      skos:prefLabel  "Ukončení aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010074>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010074" ;
+      skos:prefLabel  "Odeslání žádosti o dodatečné informace"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010011>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010011" ;
+      skos:prefLabel  "Přenos výsledků hodnocení nabídek do aukční síně"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010054>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010054" ;
+      skos:prefLabel  "Odeslání oznámení o posunutí začátku aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010081>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010081" ;
+      skos:prefLabel  "Příjem oznámení o vyloučení uchazeče"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010089>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010089" ;
+      skos:prefLabel  "Odeslání žádosti o nahlédnutí do protokolu o výběru dodavatele"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010058>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010058" ;
+      skos:prefLabel  "Příjem žádosti o nahlédnutí do zprávy o posouzení a hodnocení nabídek"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010044>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010044" ;
+      skos:prefLabel  "Odeslání objednávky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010021>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010021" ;
+      skos:prefLabel  "Zaevidování výsledků hodnocení provedeného mimo systém"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010029>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010029" ;
+      skos:prefLabel  "Uveřejnění odůvodnění zrušení zadávacího řízení v e-tržišti"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010039>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010039" ;
+      skos:prefLabel  "Spuštění nestandardního stavu č. 10"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010105>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010105" ;
+      skos:prefLabel  "Příjem oznámení o uzavření smlouvy"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010002>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010002" ;
+      skos:prefLabel  "Uveřejnění dodatečných informací v e-tržišti"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010061>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010061" ;
+      skos:prefLabel  "Příjem oznámení o vzdání se práva na podání námitek"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010075>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010075" ;
+      skos:prefLabel  "Příjem dodatečných informací"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010049>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010049" ;
+      skos:prefLabel  "Příjem nabídek"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010115>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010115" ;
+      skos:prefLabel  "Sestavení konečného pořadí nabídek po e-aukci"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010019>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010019" ;
+      skos:prefLabel  "Uzavření aukční síně"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010082>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010082" ;
+      skos:prefLabel  "Příjem oznámení o vyloučení dodavatele z e-aukce"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010012>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010012" ;
+      skos:prefLabel  "Otevření aukční síně"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010057>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010057" ;
+      skos:prefLabel  "Odeslání oznámení o zrušení aukčního kola"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010053>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010053" ;
+      skos:prefLabel  "Odeslání oznámení o vyloučení dodavatele z e-aukce"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010022>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010022" ;
+      skos:prefLabel  "Výběr nejvhodnější nabídky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010043>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010043" ;
+      skos:prefLabel  "Odeslání výzvy k podání nabídky v zadávacím řízení"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010009>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010009" ;
+      skos:prefLabel  "Vyřazení nabídky"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010096>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010096" ;
+      skos:prefLabel  "Příjem oznámení o zrušení ZŘ"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010001>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010001" ;
+      skos:prefLabel  "Uveřejnění výzvy k podání nabídek"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010062>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010062" ;
+      skos:prefLabel  "Příjem námitek proti úkonům zadavatele"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010104>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010104" ;
+      skos:prefLabel  "Zaevidování výsledků hodnocení dílčích kritérií"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010114>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010114" ;
+      skos:prefLabel  "Sestavení pořadí nabídek po aukčním kole"@cs .
+
+<http://linked.opendata.cz/resource/e-transactions/concept/PL010076>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "PL010076" ;
+      skos:prefLabel  "Zašifrování nabídky"@cs .

@@ -1,0 +1,140 @@
+@prefix dc:      <http://purl.org/dc/terms/> .
+@prefix cur:     <http://www.w3.org/2007/ont/currency#> .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/SEK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "koruna švédská"@cs ;
+      cur:code      "SEK" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/RON>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "nový lei rumunský"@cs ;
+      cur:code      "RON" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/JPY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "jen"@cs ;
+      cur:code      "JPY" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/NOK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "koruna norská"@cs ;
+      cur:code      "NOK" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/DKK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "koruna dánská"@cs ;
+      cur:code      "DKK" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/USD>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "dolar americký"@cs ;
+      cur:code      "USD" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/TRY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "nová turecká lira"@cs ;
+      cur:code      "TRY" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/HRK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "kuna chorvatská"@cs ;
+      cur:code      "HRK" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/GBP>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "libra šterlinků"@cs ;
+      cur:code      "GBP" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/CHF>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "frank švýcarský"@cs ;
+      cur:code      "CHF" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/MTL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "lira maltská"@cs ;
+      cur:code      "MTL" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/EUR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "euro"@cs ;
+      cur:code      "EUR" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/CYP>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "libra kyperská"@cs ;
+      cur:code      "CYP" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/LTL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "litus litevský"@cs ;
+      cur:code      "LTL" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/ISK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "koruna islandská"@cs ;
+      cur:code      "ISK" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/HUF>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "forint"@cs ;
+      cur:code      "HUF" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/LVL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "lat lotyšský"@cs ;
+      cur:code      "LVL" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/MKD>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "denár makedonský"@cs ;
+      cur:code      "MKD" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/CZK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "koruna česká"@cs ;
+      cur:code      "CZK" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/SKK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "koruna slovenská"@cs ;
+      cur:code      "SKK" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/BGN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "leva bulharská"@cs ;
+      cur:code      "BGN" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/PLN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "zlotý"@cs ;
+      cur:code      "PLN" .
+
+<http://linked.opendata.cz/resource/isvz.cz/currency/EEK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    cur:Currency ;
+      dc:title      "kroon"@cs ;
+      cur:code      "EEK" .

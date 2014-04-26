@@ -1,0 +1,13 @@
+PREFIX cur: <http://www.w3.org/2007/ont/currency#>
+PREFIX dc: <http://purl.org/dc/terms/>
+
+CONSTRUCT {
+  ?URI a cur:Currency ;
+      cur:code ?Kód ;
+      dc:title ?nazev .
+}
+WHERE {
+  BIND (URI(CONCAT('http://linked.opendata.cz/resource/isvz.cz/currency/', ?Kód)) AS ?URI)
+  BIND (STRLANG(?Název, "cs") AS ?nazev)
+}
+OFFSET 1

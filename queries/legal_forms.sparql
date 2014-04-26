@@ -1,0 +1,12 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+CONSTRUCT {
+  ?URI a skos:Concept ;
+      skos:notation ?Kód;
+      skos:prefLabel ?nazev;
+}
+WHERE {
+  BIND (URI(CONCAT('http://linked.opendata.cz/resource/isvz.cz/legal-forms/concept/', ?Kód)) AS ?URI)
+  BIND (STRLANG(?Název, "cs") AS ?nazev)
+}
+OFFSET 1

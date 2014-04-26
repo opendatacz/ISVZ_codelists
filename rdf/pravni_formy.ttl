@@ -1,0 +1,331 @@
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/141>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "141" ;
+      skos:prefLabel  "Obecně prospěšná společnost"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/801>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "801" ;
+      skos:prefLabel  "Obec, měst. část hl.m. Prahy"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/805>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "805" ;
+      skos:prefLabel  "Regionální rada regionu soudržnosti"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/118>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "118" ;
+      skos:prefLabel  "Nadační fond"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/950>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "950" ;
+      skos:prefLabel  "Subjekt právním řádem výslovně neupravený"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/761>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "761" ;
+      skos:prefLabel  "Honební společenstvo"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/145>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "145" ;
+      skos:prefLabel  "Společ. vlastníků jednotek"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/641>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "641" ;
+      skos:prefLabel  "Školská právnická osoba"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/312>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "312" ;
+      skos:prefLabel  "Banka-státní peněžní ústav"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/361>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "361" ;
+      skos:prefLabel  "Veřejnoprávní instituce(ČT...)"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/601>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "601" ;
+      skos:prefLabel  "Vysoká škola"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/771>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "771" ;
+      skos:prefLabel  "Svazek obcí"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/108>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "108" ;
+      skos:prefLabel  "Zemědělský podnikatel - fyzická osoba zapsaná v obchodním rejstříku"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/541>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "541" ;
+      skos:prefLabel  "Podílový fond"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/911>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "911" ;
+      skos:prefLabel  "Zahr.kulturní,inform.střed. .."@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/151>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "151" ;
+      skos:prefLabel  "Komoditní burza"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/325>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "325" ;
+      skos:prefLabel  "Organizační složka státu"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/113>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "113" ;
+      skos:prefLabel  "Společnost komanditní"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/117>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "117" ;
+      skos:prefLabel  "Nadace"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/933>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "933" ;
+      skos:prefLabel  "Evropská družstevní společnost"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/352>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "352" ;
+      skos:prefLabel  "Správa želez. dopravní cesty"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/661>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "661" ;
+      skos:prefLabel  "Veřejná výzkumná instituce"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/107>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "107" ;
+      skos:prefLabel  "Zemědělský podnikatel - fyzická osoba nezapsaná v obchodním rejstříku"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/331>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "331" ;
+      skos:prefLabel  "Příspěvková organizace"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/381>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "381" ;
+      skos:prefLabel  "Fond (nár. majetku, pozemkový)"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/932>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "932" ;
+      skos:prefLabel  "Evropská společnost"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/922>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "922" ;
+      skos:prefLabel  "Organizační jednotka organizace s mezinárodním prvkem"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/314>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "314" ;
+      skos:prefLabel  "Česká konsolidační agentura"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/102>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "102" ;
+      skos:prefLabel  "Fyz.os.podnik.dle ŽZ zaps.v OR"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/301>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "301" ;
+      skos:prefLabel  "Státní podnik"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/112>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "112" ;
+      skos:prefLabel  "Společnost s ručením omezeným"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/353>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "353" ;
+      skos:prefLabel  "Rada pro veřejný dohled nad auditem"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/106>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "106" ;
+      skos:prefLabel  "Fyz.os.podn.dle j.zák.zaps.vOR"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/391>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "391" ;
+      skos:prefLabel  "Zdravotní pojišťovna"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/501>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "501" ;
+      skos:prefLabel  "Odštěpný závod,jiná org.složka"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/804>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "804" ;
+      skos:prefLabel  "Kraj"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/521>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "521" ;
+      skos:prefLabel  "Samost.drobná prov.obec.úřadu"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/205>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "205" ;
+      skos:prefLabel  "Družstvo"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/931>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "931" ;
+      skos:prefLabel  "Evropské hospodářské zájmové sdružení"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/921>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "921" ;
+      skos:prefLabel  "Mezinár.organizace a sdružení"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/313>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "313" ;
+      skos:prefLabel  "Česká národní banka"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/751>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "751" ;
+      skos:prefLabel  "Zájmové sdružení právnic.osob"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/721>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "721" ;
+      skos:prefLabel  "Církevní organizace"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/101>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "101" ;
+      skos:prefLabel  "Fyz.os.podnik.dle ŽZnezap.v OR"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/741>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "741" ;
+      skos:prefLabel  "Stavovská organ.-profes.komora"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/105>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "105" ;
+      skos:prefLabel  "Fyz.os.podn.dle j.zák.nezap.OR"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/111>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "111" ;
+      skos:prefLabel  "Veřejná obchodní společnost"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/711>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "711" ;
+      skos:prefLabel  "Politická strana, polit.hnutí"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/121>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "121" ;
+      skos:prefLabel  "Akciová společnost"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/941>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "941" ;
+      skos:prefLabel  "Evropské seskupení pro územní spolupráci"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/421>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "421" ;
+      skos:prefLabel  "Zahraniční osoba"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/0>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "0" ;
+      skos:prefLabel  "Zatím neurčeno"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/701>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "701" ;
+      skos:prefLabel  "Sdružení(svaz,spolek,klub)"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/745>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "745" ;
+      skos:prefLabel  "Komora (s výjimkou prof.komor)"@cs .
+
+<http://linked.opendata.cz/resource/legal-forms/concept/731>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    skos:Concept ;
+      skos:notation  "731" ;
+      skos:prefLabel  "Organizační jednotka sdružení"@cs .
