@@ -1,0 +1,1465 @@
+@prefix nso:     <http://www.daml.org/2001/09/countries/iso-3166-ont#> .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BN" ;
+      nso:name      "Brunej Darussalam"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/ST>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "ST" ;
+      nso:name      "Demokratická republika Svatý Tomáš a Princův ostrov"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CR" ;
+      nso:name      "Kostarická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GP>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GP" ;
+      nso:name      "Guadeloupe"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SL" ;
+      nso:name      "Republika Sierra Leone"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/EG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "EG" ;
+      nso:name      "Egyptská arabská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LB>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LB" ;
+      nso:name      "Libanonská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/FK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "FK" ;
+      nso:name      "Falklandy (Malvíny)"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AS>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AS" ;
+      nso:name      "Americká Samoa"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/HT>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "HT" ;
+      nso:name      "Haitská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MY" ;
+      nso:name      "Malajsie"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NI>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NI" ;
+      nso:name      "Nikaragujská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LR" ;
+      nso:name      "Liberijská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/US>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "US" ;
+      nso:name      "Spojené státy americké"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BM" ;
+      nso:name      "Bermudy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KR" ;
+      nso:name      "Korejská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BD>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BD" ;
+      nso:name      "Bangladéšská lidová republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TW>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TW" ;
+      nso:name      "Tchaj-wan, čínská provincie"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/EH>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "EH" ;
+      nso:name      "Západní Sahara"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/VE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "VE" ;
+      nso:name      "Bolívarovská republika Venezuela"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SK" ;
+      nso:name      "Slovenská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LA" ;
+      nso:name      "Laoská lidově demokratická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TF>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TF" ;
+      nso:name      "Francouzská jižní území"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NZ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NZ" ;
+      nso:name      "Nový Zéland"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PR" ;
+      nso:name      "Portoriko"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AR" ;
+      nso:name      "Argentinská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MZ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MZ" ;
+      nso:name      "Mosambická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GA" ;
+      nso:name      "Gabonská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LS>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LS" ;
+      nso:name      "Lesothské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SV>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SV" ;
+      nso:name      "Salvadorská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NL" ;
+      nso:name      "Nizozemské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/VG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "VG" ;
+      nso:name      "Britské Panenské ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TV>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TV" ;
+      nso:name      "Tuvalu"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MH>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MH" ;
+      nso:name      "Republika Marshallovy ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PS>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PS" ;
+      nso:name      "Okupovaná palestinská území"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CA" ;
+      nso:name      "Kanada"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TG" ;
+      nso:name      "Tožská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SN" ;
+      nso:name      "Senegalská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GR" ;
+      nso:name      "Řecká republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BA" ;
+      nso:name      "Bosna a Hercegovina"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MW>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MW" ;
+      nso:name      "Malawská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/FI>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "FI" ;
+      nso:name      "Finská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/HR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "HR" ;
+      nso:name      "Chorvatská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/WF>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "WF" ;
+      nso:name      "Wallis a Futuna"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/UG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "UG" ;
+      nso:name      "Ugandská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AQ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AQ" ;
+      nso:name      "Antarktida"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AO" ;
+      nso:name      "Angolská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BO" ;
+      nso:name      "Bolivijská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CO" ;
+      nso:name      "Kolumbijská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PA" ;
+      nso:name      "Panamská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BB>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BB" ;
+      nso:name      "Barbados"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LT>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LT" ;
+      nso:name      "Litevská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MG" ;
+      nso:name      "Madagaskarská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KP>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KP" ;
+      nso:name      "Korejská lidově demokratická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/VU>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "VU" ;
+      nso:name      "Vanuatská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LC>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LC" ;
+      nso:name      "Svatá Lucie"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GQ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GQ" ;
+      nso:name      "Republika Rovníková Guinea"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TH>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TH" ;
+      nso:name      "Thajské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SM" ;
+      nso:name      "Sanmarinská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/ZW>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "ZW" ;
+      nso:name      "Zimbabwská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PT>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PT" ;
+      nso:name      "Portugalská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MX>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MX" ;
+      nso:name      "Spojené státy mexické"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/FJ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "FJ" ;
+      nso:name      "Republika Fidžijské ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CC>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CC" ;
+      nso:name      "Kokosové ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LU>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LU" ;
+      nso:name      "Lucemburské velkovévodství"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/IT>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "IT" ;
+      nso:name      "Italská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TT>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TT" ;
+      nso:name      "Republika Trinidad a Tobago"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/RU>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "RU" ;
+      nso:name      "Ruská federace"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/VI>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "VI" ;
+      nso:name      "Americké Panenské ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/EC>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "EC" ;
+      nso:name      "Ekvádorská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NF>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NF" ;
+      nso:name      "Norfolk"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AN" ;
+      nso:name      "Nizozemské Antily"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PH>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PH" ;
+      nso:name      "Filipínská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NU>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NU" ;
+      nso:name      "Niue"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MU>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MU" ;
+      nso:name      "Mauricijská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SH>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SH" ;
+      nso:name      "Svatá Helena"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BS>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BS" ;
+      nso:name      "Bahamské společenství"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GT>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GT" ;
+      nso:name      "Guatemalská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NE" ;
+      nso:name      "Nigerská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/IS>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "IS" ;
+      nso:name      "Islandská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PG" ;
+      nso:name      "Papua Nová Guinea"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CD>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CD" ;
+      nso:name      "Konžská demokratická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/ME>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "ME" ;
+      nso:name      "Republika Černá Hora"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LV>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LV" ;
+      nso:name      "Lotyšská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GD>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GD" ;
+      nso:name      "Grenada"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AM" ;
+      nso:name      "Arménská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BR" ;
+      nso:name      "Brazilská federativní republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SG" ;
+      nso:name      "Singapurská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MV>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MV" ;
+      nso:name      "Maledivská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SO" ;
+      nso:name      "Somálská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/ID>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "ID" ;
+      nso:name      "Indonéská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KE" ;
+      nso:name      "Keňská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/YE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "YE" ;
+      nso:name      "Jemenská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CV>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CV" ;
+      nso:name      "Kapverdská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GS>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GS" ;
+      nso:name      "Jižní Georgie a Jižní Sandwichovy ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/RW>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "RW" ;
+      nso:name      "Rwandská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PF>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PF" ;
+      nso:name      "Francouzská Polynésie"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GW>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GW" ;
+      nso:name      "Republika Guinea-Bissau"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/DE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "DE" ;
+      nso:name      "Spolková republika Německo"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MD>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MD" ;
+      nso:name      "Moldavská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AL" ;
+      nso:name      "Albánská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GE" ;
+      nso:name      "Gruzie"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/YT>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "YT" ;
+      nso:name      "Mayotte"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SR" ;
+      nso:name      "Surinamská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SJ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SJ" ;
+      nso:name      "Svalbard a ostrov Jan Mayen"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/UZ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "UZ" ;
+      nso:name      "Republika Uzbekistán"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/IE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "IE" ;
+      nso:name      "Irsko"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/ET>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "ET" ;
+      nso:name      "Etiopská federativní demokratická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MS>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MS" ;
+      nso:name      "Montserrat"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CU>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CU" ;
+      nso:name      "Kubánská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/EE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "EE" ;
+      nso:name      "Estonská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/JE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "JE" ;
+      nso:name      "Jersey"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TR" ;
+      nso:name      "Turecká republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PW>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PW" ;
+      nso:name      "Palauská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CF>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CF" ;
+      nso:name      "Středoafrická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PE" ;
+      nso:name      "Peruánská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TC>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TC" ;
+      nso:name      "Turks a Caicos"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MC>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MC" ;
+      nso:name      "Monacké knížectví"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NG" ;
+      nso:name      "Nigérijská federativní republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GF>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GF" ;
+      nso:name      "Francouzská Guyana"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/UY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "UY" ;
+      nso:name      "Uruguayská východní republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BT>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BT" ;
+      nso:name      "Bhútánské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SI>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SI" ;
+      nso:name      "Slovinská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/HU>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "HU" ;
+      nso:name      "Maďarská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GU>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GU" ;
+      nso:name      "Guam"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/ES>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "ES" ;
+      nso:name      "Španělské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TD>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TD" ;
+      nso:name      "Čadská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/RE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "RE" ;
+      nso:name      "Réunion"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MT>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MT" ;
+      nso:name      "Maltská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MR" ;
+      nso:name      "Mauritánská islámská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BW>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BW" ;
+      nso:name      "Botswanská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SD>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SD" ;
+      nso:name      "Súdánská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GH>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GH" ;
+      nso:name      "Ghanská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NR" ;
+      nso:name      "Nauruská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TM" ;
+      nso:name      "Turkmenistán"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/UA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "UA" ;
+      nso:name      "Ukrajina"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NC>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NC" ;
+      nso:name      "Nová Kaledonie"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/DK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "DK" ;
+      nso:name      "Dánské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KY" ;
+      nso:name      "Kajmanské ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AG" ;
+      nso:name      "Antigua a Barbuda"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LY" ;
+      nso:name      "Libyjská arabská lidová socialistická džamáhírije"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CG" ;
+      nso:name      "Konžská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AZ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AZ" ;
+      nso:name      "Ázerbájdžánská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CZ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CZ" ;
+      nso:name      "Česká republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MQ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MQ" ;
+      nso:name      "Martinik"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/HK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "HK" ;
+      nso:name      "Hongkong, zvláštní administrativní oblast Čínské lidové republiky"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KI>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KI" ;
+      nso:name      "Republika Kiribati"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LI>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LI" ;
+      nso:name      "Lichtenštejnské knížectví"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GG" ;
+      nso:name      "Guernsey"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PY" ;
+      nso:name      "Paraguayská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SC>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SC" ;
+      nso:name      "Seychelská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BV>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BV" ;
+      nso:name      "Bouvetův ostrov"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TN" ;
+      nso:name      "Tuniská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/ZM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "ZM" ;
+      nso:name      "Zambijská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KZ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KZ" ;
+      nso:name      "Republika Kazachstán"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/VN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "VN" ;
+      nso:name      "Vietnamská socialistická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SB>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SB" ;
+      nso:name      "Šalamounovy ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/IO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "IO" ;
+      nso:name      "Britské indickooceánské území"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CH>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CH" ;
+      nso:name      "Švýcarská konfederace"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KH>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KH" ;
+      nso:name      "Kambodžské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CY" ;
+      nso:name      "Kyperská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MP>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MP" ;
+      nso:name      "Společenství Severních Marian"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TO" ;
+      nso:name      "Království Tonga"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BY" ;
+      nso:name      "Běloruská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NA" ;
+      nso:name      "Namibijská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KW>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KW" ;
+      nso:name      "Kuvajtský stát"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CI>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CI" ;
+      nso:name      "Republika Pobřeží slonoviny"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PK" ;
+      nso:name      "Pákistánská islámská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/RS>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "RS" ;
+      nso:name      "Republika Srbsko"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BI>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BI" ;
+      nso:name      "Burundská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AI>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AI" ;
+      nso:name      "Anguilla"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/IR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "IR" ;
+      nso:name      "Íránská islámská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KG" ;
+      nso:name      "Republika Kyrgyzstán"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CX>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CX" ;
+      nso:name      "Vánoční ostrov"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/FR>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "FR" ;
+      nso:name      "Francouzská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MO" ;
+      nso:name      "Macao, zvláštní administrativní oblast Čínské lidové republiky"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/ER>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "ER" ;
+      nso:name      "Eritrea"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AX>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AX" ;
+      nso:name      "Alandské ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SE" ;
+      nso:name      "Švédské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/LK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "LK" ;
+      nso:name      "Srílanská demokratická socialistická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GI>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GI" ;
+      nso:name      "Gibraltar"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BJ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BJ" ;
+      nso:name      "Beninská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GY" ;
+      nso:name      "Guyanská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/DJ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "DJ" ;
+      nso:name      "Džibutská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/IQ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "IQ" ;
+      nso:name      "Irácká republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PL" ;
+      nso:name      "Polská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AW>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AW" ;
+      nso:name      "Aruba"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GL" ;
+      nso:name      "Grónsko"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/VA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "VA" ;
+      nso:name      "Svatý stolec (Vatikánský městský stát)"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MN" ;
+      nso:name      "Mongolsko"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/UM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "UM" ;
+      nso:name      "Menší odlehlé ostrovy USA"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/FO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "FO" ;
+      nso:name      "Faerské ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KN" ;
+      nso:name      "Svatý Kryštof a Nevis"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/JP>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "JP" ;
+      nso:name      "Japonsko"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BG>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BG" ;
+      nso:name      "Bulharská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PM" ;
+      nso:name      "Saint Pierre a Miquelon"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/DO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "DO" ;
+      nso:name      "Dominikánská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/IL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "IL" ;
+      nso:name      "Izraelský stát"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CK" ;
+      nso:name      "Cookovy ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/OM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "OM" ;
+      nso:name      "Sultanát Omán"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MM" ;
+      nso:name      "Myanmarský svaz"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TJ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TJ" ;
+      nso:name      "Republika Tádžikistán"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BZ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BZ" ;
+      nso:name      "Belize"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/JO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "JO" ;
+      nso:name      "Jordánské hášimovské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/PN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "PN" ;
+      nso:name      "Pitcairn"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BH>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BH" ;
+      nso:name      "Bahrajnské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/KM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "KM" ;
+      nso:name      "Komorský svaz"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/ZA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "ZA" ;
+      nso:name      "Jihoafrická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CL" ;
+      nso:name      "Chilská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/DZ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "DZ" ;
+      nso:name      "Alžírská lidová demokratická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AD>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AD" ;
+      nso:name      "Andorrské knížectví"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NP>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NP" ;
+      nso:name      "Nepálské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AU>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AU" ;
+      nso:name      "Austrálie"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GN" ;
+      nso:name      "Guinejská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/UK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "UK" ;
+      nso:name      "Spojené království Velké Británie a Severního Irska"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/FM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "FM" ;
+      nso:name      "Federativní státy Mikronésie"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MA" ;
+      nso:name      "Marocké království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/VC>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "VC" ;
+      nso:name      "Svatý Vincenc a Grenadiny"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TK" ;
+      nso:name      "Tokelau"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/HN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "HN" ;
+      nso:name      "Honduraská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/RO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "RO" ;
+      nso:name      "Rumunsko"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BE" ;
+      nso:name      "Belgické království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/ML>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "ML" ;
+      nso:name      "Maliská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/DM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "DM" ;
+      nso:name      "Dominické společenství"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/WS>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "WS" ;
+      nso:name      "Nezávislý stát Samoa"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TZ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TZ" ;
+      nso:name      "Sjednocená republika Tanzanie"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/IN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "IN" ;
+      nso:name      "Indická republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SZ>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SZ" ;
+      nso:name      "Svazijské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SA" ;
+      nso:name      "Saúdskoarabské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AE>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AE" ;
+      nso:name      "Spojené arabské emiráty"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CM" ;
+      nso:name      "Kamerunská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/TL>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "TL" ;
+      nso:name      "Demokratická republika Východní Timor"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/NO>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "NO" ;
+      nso:name      "Norské království"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/GM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "GM" ;
+      nso:name      "Gambijská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AT>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AT" ;
+      nso:name      "Rakouská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/HM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "HM" ;
+      nso:name      "Heardův ostrov a McDonaldovy ostrovy"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/JM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "JM" ;
+      nso:name      "Jamajka"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/MK>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "MK" ;
+      nso:name      "Bývalá jugoslávská republika Makedonie"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/BF>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "BF" ;
+      nso:name      "Burkina Faso"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/SY>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "SY" ;
+      nso:name      "Syrská arabská republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/AF>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "AF" ;
+      nso:name      "Prozatímní islámský stát Afghánistán"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/IM>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "IM" ;
+      nso:name      "Ostrov Man"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/CN>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "CN" ;
+      nso:name      "Čínská lidová republika"@cs .
+
+<http://linked.opendata.cz/resource/isvz.cz/country/QA>
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+                    nso:Country ;
+      nso:code      "QA" ;
+      nso:name      "Stát Katar"@cs .

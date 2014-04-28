@@ -1,0 +1,12 @@
+PREFIX nso: <http://www.daml.org/2001/09/countries/iso-3166-ont#>
+
+CONSTRUCT {
+  ?URI a nso:Country ;
+      nso:code ?Kód_stat_kch2 ;
+      nso:name ?nazev .
+}
+WHERE {
+  BIND (URI(CONCAT('http://linked.opendata.cz/resource/isvz.cz/country/', ?Kód_stat_kch2)) AS ?URI)
+  BIND (STRLANG(?Název, "cs") AS ?nazev)
+}
+OFFSET 1

@@ -1,0 +1,12 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+CONSTRUCT {
+  ?cpv skos:broaderTransitive ?komodita .
+}
+WHERE {
+  BIND (URI(CONCAT('http://linked.opendata.cz/resource/commodities-MMR/concept/', ?Kód_nadřízený)) AS ?komodita)
+  BIND (URI(CONCAT('http://linked.opendata.cz/resource/cpv-2008/concept/', strbefore(?Kód,'-'))) AS ?cpv)
+  FILTER(BOUND(?Kód_nadřízený))
+  FILTER regex(str(?Kód_nadřízený), "^[0-9]+$")
+}
+OFFSET 1
