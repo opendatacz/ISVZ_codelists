@@ -1,7 +1,7 @@
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
 CONSTRUCT {
-  ?cpv skos:broaderTransitive ?komodita .
+  ?cpv skos:broaderMatch ?komodita .
 }
 WHERE {
   BIND (URI(CONCAT('http://linked.opendata.cz/resource/commodities-MMR/concept/', ?Kód_nadřízený)) AS ?komodita)

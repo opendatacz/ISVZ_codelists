@@ -1,1409 +1,1057 @@
 @prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90680000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39220000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30124000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/4> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/4> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09330000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/45300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/41> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/41> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39310000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50220000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/47> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/47> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/64200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/52> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/52> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44800000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/71500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/15000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31680000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39140000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33740000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19720000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90910000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30190000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/11> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/11> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51620000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34990000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09230000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34350000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/85000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/55> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/55> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72260000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33970000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/03340000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/26> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/26> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30125000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/4> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/4> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34420000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30152000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/4> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/4> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44550000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30120000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33710000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79800000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/70> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/70> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/65> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/65> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/22100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79900000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/69> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/69> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33960000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31670000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34950000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/77400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/77200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34920000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39540000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31650000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33950000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39120000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39240000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/45110000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/39> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/39> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32220000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92350000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72230000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/60> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/60> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34150000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30130000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39350000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39230000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/77500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31610000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39340000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51900000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44900000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50720000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/48> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/48> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30150000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50710000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/48> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/48> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/22600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/5> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/5> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09135000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34370000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32270000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09120000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32240000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/80000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/74> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/74> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30170000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/15400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50760000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39190000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/20> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/20> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32230000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60170000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/42> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/42> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34411000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/03310000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50730000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/48> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/48> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/45400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/41> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/41> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34110000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/22> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/22> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/15700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/27> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/27> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90610000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34130000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/22> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/22> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32260000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34910000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/03000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31630000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44530000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/38000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/03320000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/26> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/26> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/10> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/10> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/15100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72210000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/60> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/60> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30110000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19640000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/03200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/72> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/72> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/15900000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30198000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/15500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39295000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/73000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/56> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/56> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19730000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/77100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39370000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51610000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/03100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/26> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/26> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33730000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39560000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39224000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34430000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/77300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/39> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/39> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/22800000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/11> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/11> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/15600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34980000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72250000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/15200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39290000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34940000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39510000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34960000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39130000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09210000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/2> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/2> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/69> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/69> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33790000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30192113>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/4> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/4> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44510000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/36> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/36> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/22200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/72> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/72> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92330000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/72> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/72> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39150000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/38650000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/10> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/10> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/71550000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/41> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/41> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/70000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/64> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/64> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34310000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31620000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60510000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/14000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/28> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/28> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92340000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/72> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/72> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/68> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/68> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33910000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/22900000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/11> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/11> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72240000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/45500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/43> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/43> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44520000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09111300>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/58> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/58> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/61> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/61> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/16000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/31> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/31> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39110000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39270000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/03400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/26> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/26> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/9> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/9> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34140000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/22> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/22> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50230000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/33> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/33> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/71000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/40> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/40> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39254000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32210000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/34> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39260000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/11> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/11> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09320000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33720000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/73> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/73> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33760000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/46> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/46> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19630000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31640000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/42150000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/33> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/33> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/37000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/13> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/13> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90620000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/62> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/62> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50340000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/22400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39170000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/75> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/75> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/64000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33140000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/19> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/19> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39550000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/22500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/5> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/5> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50740000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/48> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/48> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30160000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/03330000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/26> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/26> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/63000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/51> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/51> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/18> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/18> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/15300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/73> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/73> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/75000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/54> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/54> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39530000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92360000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30234000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/6> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/6> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/15800000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/25> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90630000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39360000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44540000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34970000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72220000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/77900000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33930000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/16300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09110000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51800000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90690000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/98000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/79> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/79> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34410000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/22> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/22> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/73> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/73> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19620000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/42000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/32> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/32> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/55000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/71> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/71> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30199700>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/44600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/37> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50210000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/47> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/47> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/37540000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50240000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/47> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/47> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90660000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/45000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/43000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/32> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/32> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72800000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/65000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/53> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/53> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/66000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/63> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/63> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39520000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/16700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/22300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50750000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/48> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/48> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/77600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34330000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/77800000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/9> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/9> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48900000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/76000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/78> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/78> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09310000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39800000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/77700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/77> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/77000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79340000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/66> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/66> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33940000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60520000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/16600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33750000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34120000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/22> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/22> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/45200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/41> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/41> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60180000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/42> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/42> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50800000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/24000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/21> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/21> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/35000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34930000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/35> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50310000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/45> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/45> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/45120000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/41> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/41> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72900000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60220000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34360000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09130000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/2> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/2> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19710000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30180000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/16800000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/64100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50320000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/45> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/45> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33920000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/17> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/59> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39180000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90650000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/22000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39330000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/16> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/51100000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/44> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30140000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/3> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/32250000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/8> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/8> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/41000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/28> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/28> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/22820000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/12> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39160000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/15> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48810000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34390000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09220000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90920000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/76> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/30200000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/6> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/6> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90640000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09340000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33770000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/14> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50330000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/45> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/45> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34700000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/24> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48820000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/6> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/6> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/33000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/19610000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/30> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31660000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/999> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/50600000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/49> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/48300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/7> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90670000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/79400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/67> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/67> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/72400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/52> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/52> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/34320000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/23> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60210000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/60300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/50> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/39296000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/80> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/18000000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/29> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/29> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/09240000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/1> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/31300000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/38> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/90400000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/57> .
 
 <http://linked.opendata.cz/resource/cpv-2008/concept/92500000>
-      skos:broaderTransitive
-                    <http://linked.opendata.cz/resource/commodities-MMR/concept/73> .
+      skos:broaderMatch  <http://linked.opendata.cz/resource/commodities-MMR/concept/73> .
